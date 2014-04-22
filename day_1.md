@@ -1,5 +1,11 @@
 # Day 1: April 22
 
+## Keynote: David Heinemeier Hansson
+
+* Code/poetry similarity
+* TDD: most successful software diet
+* James Coplien "Why Most Unit Testing is Waste"
+
 ## Ultra Light and Maintainable Rails Wizards - Michigan AB
 
 ## Rack::Attack: Protect your app with this one weird gem! - Michigan AB
@@ -9,3 +15,5 @@
 ## Real-time Rails with Sync - Michigan AB
 
 ## Mutation Testing with Mutant - Ballroom 4
+
+## Keynote: Farrah Bostic
