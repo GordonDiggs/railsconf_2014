@@ -47,8 +47,16 @@
 * Gives you flexibility with how to build JS
 * split gem: AB test tool
 
-## Real-time Rails with Sync - Michigan AB
+## Real-time Rails with Sync - Mike Moore
 
-## Mutation Testing with Mutant - Ballroom 4
+* *github.com/chrismccord/sync*
+
+## Mutation Testing with Mutant - Erik Michaels-Ober
+
+* *github.com/mbj/mutant*
+* Computer History Museum, Mountain View CA
+* Mutation Testing: changes code at runtime
+  * Tests should fail with mutation
+* `bundle exec mutant ...`
 
 ## Keynote: Farrah Bostic
