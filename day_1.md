@@ -17,7 +17,19 @@
 * Each step inherits from Model
 * Wicked gem
 
-## Rack::Attack: Protect your app with this one weird gem! - Michigan AB
+## Rack::Attack: Protect your app with this one weird gem! - Aaron Suggs
+
+*@ktheory*
+
+* *github.com/kickstarter/rack-attack*
+* Blocking & throttling middleware
+* kicksniper.py
+* `obj.presence`
+* Restrict trolls to GET requests
+  * Support team bans IPs
+  * They also deploy the yaml update
+* Code, easyness, notifications better than nginx
+* Integration testable
 
 ## Lightning Fast Deployment of Your Rails-backed JavaScript app - Ballroom 1-3
 
