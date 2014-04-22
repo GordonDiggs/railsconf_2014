@@ -31,7 +31,21 @@
 * Code, easyness, notifications better than nginx
 * Integration testable
 
-## Lightning Fast Deployment of Your Rails-backed JavaScript app - Ballroom 1-3
+## Lightning Fast Deployment of Your Rails-backed JavaScript app - Luke Melia
+
+* `heroku labs:enable preboot`
+  * Switches to new code after 3 minutes
+* Make both old versions and new versions available for a few minutes after a deploy
+  * Prevents asset 404s
+* Deploy js and css to non-app code servers
+* Deploy html to redis server, serve from there through rails controllers
+  * Get manifest hash
+  * Preview any manifest
+  * Can also AB test
+* Deploying to s3
+  * Keep manifest file, only deploy what is different
+* Gives you flexibility with how to build JS
+* split gem: AB test tool
 
 ## Real-time Rails with Sync - Michigan AB
 
