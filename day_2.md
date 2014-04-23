@@ -38,6 +38,10 @@ end
 
 ## What the cache?! - Simon Kröger
 
+* `:race_condition_ttl` config option
+* Cache versioning - store version in cache as well
+* bounded_cache gem
+
 ## Artisans and Apprentices
 
 ## Building kick-ass internal education programs (for large and small budgets)
