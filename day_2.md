@@ -72,6 +72,47 @@ end
   * Sets aside time to answer all questions
 * Ask team to review code - bring snacks
 
-## Technical Onboarding, Training, and Mentoring
+## Technical Onboarding, Training, and Mentoring - Kate Heddleston
+
+* Confidence affects how well people perform
+* Let new devs learn and play in your environment
+* Set boundaries and then move them out as they progress
+* Onboarding Categories
+  1. Technical Knowldege
+  2. Company Knowledge & Process
+  3. Personal Development
+
+#### Sample Plan
+
+* Week 1
+  * Dev Env Setup
+    * Use the last person who started at the company
+    * Have a timing goal
+  * Shipping
+    * Start small (like a config file)
+  * Journaling
+    * Give a central place to talk about what they're learning
+    * Helps alleviate confusions
+  * Social Event
+* Week 2
+  * History of company
+    * Who are the founders, who was hired a long time ago
+    * Team map: pictures and names
+  * Code Labs / Shadowing
+    * Code lab: talk to someone about code, answer any questions
+    * Shadowing: watch someone work for a specific amount of time
+* Week 3
+  * 1 on 1s
+    * Solicit feedback, ask about what they learned
+  * Goal setting
+    * What do they want to do next?
+  * Give feeback early and often
+  * Presentations
+* Week 4
+  * Review Concepts
+  * 1 on 1s
+  * Elective Shadowing
+  * Co-piloting a larger project
+* github.com/heddle317/onboarding
 
 ## Authorization in a Service-Oriented Environment - Ballroom 1-3
