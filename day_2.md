@@ -115,4 +115,7 @@ end
   * Co-piloting a larger project
 * github.com/heddle317/onboarding
 
-## Authorization in a Service-Oriented Environment - Ballroom 1-3
+## Authorization in a Service-Oriented Environment - Alan Cohen
+
+* Application code is loosely coupled to authorization
+* IronHide gem
