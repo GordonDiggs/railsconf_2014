@@ -1,5 +1,9 @@
 # Day 2: April 23
 
+## Keynote - Yehuda Katz
+
+
+
 ## Tricks that Rails didn't tell you about - BALLROOM 5
 
 ## What the cache?! - BALLROOM 5
@@ -10,4 +14,4 @@
 
 ## Technical Onboarding, Training, and Mentoring
 
-## Panel: Teaching the Next Great Developers
+## Authorization in a Service-Oriented Environment - Ballroom 1-3
