@@ -35,6 +35,7 @@ end
 * Updating Rails
   * `rake rails:update`
 * Rails talk mailing list
+* https://speakerdeck.com/carlosantoniodasilva/tricks-that-rails-didnt-tell-you-about-at-railsconf-2014
 
 ## What the cache?! - Simon Kröger
 
@@ -42,7 +43,12 @@ end
 * Cache versioning - store version in cache as well
 * bounded_cache gem
 
-## Artisans and Apprentices
+## Artisans and Apprentices - Coraline Ehmke
+
+* Values-driven development
+  * Don't have to compromise your values to be successful
+* Amplify dissent
+* Pass down your values
 
 ## Building kick-ass internal education programs (for large and small budgets)
 
