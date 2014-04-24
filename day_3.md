@@ -10,6 +10,7 @@
 * Duplication is cheaper than the wrong abstraction
 * Test methods you don't understand so you can refactor and delete
 * Trust the refactoring
+* Be able to add new behavior without changing existing code
 * practicalrailsbook.com
 
 ## Build the API First - Rosie Hoyem, Sonja Hall
@@ -38,8 +39,10 @@
 * `show-source File.write`
 * pry-define-it
 
-## Writing Small Code - Mark Menard - Ballroom 1-3
+## Writing Small Code - Mark Menard
 
-## Software Development Lessons from the Apollo Program - Julian Simioni - Ballroom 1-3
+* Extract method refactoring
+
+## Software Development Lessons from the Apollo Program - Julian Simioni
 
 ## Lightning Talks
