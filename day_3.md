@@ -45,4 +45,7 @@
 
 ## Software Development Lessons from the Apollo Program - Julian Simioni
 
+* unit tests prove your code
+* integration tests prove your communication
+
 ## Lightning Talks
