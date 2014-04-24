@@ -1,6 +1,16 @@
 # Day 3: April 24
 
-## All the Little Things - Sandi Metz - Ballroom 1-3
+## Keynote - Baratunde Thurston
+
+* truthforhumanity.com
+
+## All the Little Things - Sandi Metz
+
+* "Gilded Rose Kata"
+* Duplication is cheaper than the wrong abstraction
+* Test methods you don't understand so you can refactor and delete
+* Trust the refactoring
+* practicalrailsbook.com
 
 ## Build the API First - Rosie Hoyem, Sonja Hall - Ballroom 4
 
