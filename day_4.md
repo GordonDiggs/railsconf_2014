@@ -9,14 +9,27 @@
 * People get username wrong but password correct
 * Support didn't ask for things because they don't know how much better it could be
 * github.com/emily
+* Internal feature blog
 
-## How To Be a Boss without the B-S - Jessie Link - Ballroom 5
+## How To Be a Boss without the B-S - Jessie Link
+
+* Be an active listener
+* You do not have control
+* Make sure people continue to grow
+* Set the plan, empower the team to execute on it
+* Make a safe space to talk about what's going on
+* Like process, but don't love it
+  * Try different things, use different techniques
+* Firing right to work laws
+* Think company-wide
+* If you write less code, review more code
+  * Don't work on critical path development things
 
 ## The "Rails of JavaScript" won't be a Framework - Justin Searls - Ballroom 4
 
 ## Unreasonable Estimates and Improbable Goals - Adam Sanderson - Ballroom 5
 
-## Branding for Open Source Success - Bree Thomas - Ballroom 5
+## Curmudgeon: An Opinionated Look at an Opinionated Framework - Ernie Miller - Ballroom 1-3
 
 ## You'll Never Believe Which Web Framework Powers Upworthy - Luigi Montanez, Ryan Resella - Ballroom 1-3
 
