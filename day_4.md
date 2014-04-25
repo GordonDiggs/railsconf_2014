@@ -52,8 +52,9 @@
 * Features can be technically simple, but conceptually difficult
 * Soft Deadlines: Goals / Hard Deadlines: Promises
 
-## Curmudgeon: An Opinionated Look at an Opinionated Framework - Ernie Miller - Ballroom 1-3
+## You'll Never Believe Which Web Framework Powers Upworthy - Luigi Montanez, Ryan Resella
 
-## You'll Never Believe Which Web Framework Powers Upworthy - Luigi Montanez, Ryan Resella - Ballroom 1-3
+* Set cache headers in requests
+* http://upworthy.github.io/2014/04/how-upworthy-dot-com-was-built/
 
 ## Keynote - Aaron Patterson
