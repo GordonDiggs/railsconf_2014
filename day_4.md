@@ -35,7 +35,22 @@
 * rails-lineman / lineman-rails: linemanjs.com/rails.html
   * http://blog.testdouble.com/posts/2014-04-19-setting-up-a-serious-ember-project.html
 
-## Unreasonable Estimates and Improbable Goals - Adam Sanderson - Ballroom 5
+## Unreasonable Estimates and Improbable Goals - Adam Sanderson
+
+* LiquidPlanner
+* Before estimating, clarify what they want
+  * Maybe there is a better solution
+* Estimating
+  * Break down large tasks
+  * Group small but similar details
+  * Compare to similar work you've done
+  * Ask others if they have a better estimate
+* Identify uncertain issues
+* Change estimates when you have more clarity
+  * Re-estimate early and as you learn
+* Negotiate features instead of time
+* Features can be technically simple, but conceptually difficult
+* Soft Deadlines: Goals / Hard Deadlines: Promises
 
 ## Curmudgeon: An Opinionated Look at an Opinionated Framework - Ernie Miller - Ballroom 1-3
 
