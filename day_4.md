@@ -24,8 +24,16 @@
 * Think company-wide
 * If you write less code, review more code
   * Don't work on critical path development things
+* @mad_typist
 
-## The "Rails of JavaScript" won't be a Framework - Justin Searls - Ballroom 4
+## The "Rails of JavaScript" won't be a Framework - Justin Searls
+
+* App Framework / Convention & Config / Build Automation
+  * Separate these concerns
+* linemanjs.com
+* lineman ember sample project
+* rails-lineman / lineman-rails: linemanjs.com/rails.html
+  * http://blog.testdouble.com/posts/2014-04-19-setting-up-a-serious-ember-project.html
 
 ## Unreasonable Estimates and Improbable Goals - Adam Sanderson - Ballroom 5
 
