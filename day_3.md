@@ -49,3 +49,15 @@
 * integration tests prove your communication
 
 ## Lightning Talks
+
+* screenhero.com
+* sqrl.pl
+* array-subindex
+* huginn
+* tokaido
+* https://github.com/crowdint/prdashboard
+* gracefuldisasters.com
+* stockboy gem
+* nginxtra
+* fluentd
+* https://github.com/dabit/banjo
